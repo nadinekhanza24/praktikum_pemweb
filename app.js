@@ -115,7 +115,7 @@ tabelBody.innerHTML = ""
 
     // Percobaan 3-2 langkah 10
 updateCounter(data.length);
-}
+
 document.addEventListener("DOMContentLoaded", function(){
     renderTable(dataMahasiswa);
 })
