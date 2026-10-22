@@ -7,7 +7,7 @@
 
 // memanggil file functions.php
 require_once __DIR__ . '/includes/functions.php';
-$page_title = `Uji Fungsi Modular - Percobaan 1`;
+$page_title = `SIMA - Versi Produksi Kampus`;
 $daftar_mahasiswa = get_all_mahasiswa();
 $total_semua = count_total_mahasiswa();
 // Ambil keyword pencarian jika ada
